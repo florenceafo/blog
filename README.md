@@ -3,3 +3,10 @@
 [Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
 
 ![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+
+```
+source $HOME/.rvm/scripts/rvm
+gem install bundler
+bundle install
+bundle exec jekyll serve --watch
+```
